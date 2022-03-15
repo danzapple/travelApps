@@ -1,12 +1,5 @@
 # fluttertravelapp
 
-A new Flutter Travel application. Designed by Icha Mawaddah Febriyana, Code with Flutter by Abdul Aziz Ahwan
-
-# Travel App UI Design - Flutter UI Best Practice
-
-## [Watch it on YouTube - Part 1](https://youtu.be/1qybIXHdvVU)
-## [Watch it on YouTube - Part 2](https://youtu.be/f42AvT6ZIu4)
-
 **Project Starter Code**
 - flutter_book_app_starter.zip [get file](https://gum.co/WMkFC)
 
